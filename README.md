@@ -1,4 +1,4 @@
-# stats220
+# Stats220
 ### This is my demo repo for STATS 220. 
 <!---purpose --->
 **I will use this to finish my project for STATS 220.**
@@ -16,4 +16,4 @@
 * kpop
 * Music
 
-# MEME
+# MEMES
