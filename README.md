@@ -1,7 +1,7 @@
 # Stats220
 ### This is my demo repo for STATS 220. 
 <!---purpose --->
-**I will use this to finish my project for STATS 220.**
+**I will use this to do my project for STATS 220.**
 <!---numbered list --->
 <!---Introduce myself --->
 *Introducing myself*
