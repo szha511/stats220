@@ -3,13 +3,15 @@
 
 **I will use this to finish my project for STATS 220.**
 <!---numbered list --->
+<!---Introduce myself --->
 
-1. he
-2. je
+1. I study Data Science
+2. Born in 2004
 
 <!---unordered list ---!>
+<!---I really like --->
 
-* eh
-* eh
+* kpop
+* Music
 
 # MEME
