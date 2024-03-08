@@ -7,13 +7,17 @@
 *Introducing myself*
 
 1. I study Data Science
-2. live in Howick
+2. Take STATS 220 this course in 2024 semester 1
 
 <!---unordered list ---!>
 <!---I really like --->
-*I really enjoin*
+*projects that need to make*
 
-* kpop
-* Music
+* projects1
+* projects2
+* projects3
+* projects4
+* projects5
+* projects6
 
 # MEMES
