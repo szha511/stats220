@@ -19,6 +19,7 @@
 * projects6
 
 ***Record the link to my GitHub repo***
+
 [link to view the “demo” repo Anna set up on GitHub](https://github.com/annafergusson/stats220_demo)
 
 # MEMES
