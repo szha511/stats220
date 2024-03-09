@@ -9,8 +9,7 @@
 1. I study Data Science
 2. Take STATS 220 this course in 2024 semester 1
 
-<!---unordered list ---!>
-<!---I really like --->
+<!---unordered list --->
 *projects that need to make*
 
 * projects1
