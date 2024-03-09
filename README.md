@@ -18,5 +18,8 @@
 * projects5
 * projects6
 
+***Record the link to my GitHub repo***
+[link to view the “demo” repo Anna set up on GitHub](https://github.com/annafergusson/stats220_demo)
+
 # MEMES
 just a [link to some kpop memes](https://www.steezy.co/posts/50-k-pop-memes-of-all-time)
