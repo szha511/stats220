@@ -3,7 +3,6 @@
 <!---purpose --->
 **I will use this to do my project for STATS 220.**
 <!---numbered list --->
-<!---Introduce myself --->
 *Introducing myself*
 
 1. I study Data Science
