@@ -19,3 +19,4 @@
 * projects6
 
 # MEMES
+just a [link to some kpop memes](https://www.steezy.co/posts/50-k-pop-memes-of-all-time)
