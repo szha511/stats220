@@ -20,7 +20,7 @@
 
 ***Record the link to my GitHub repo***
 
-[link to view the my GitHub repo on GitHub](https://github.com/szha511/stats220/blob/main/README.md)
+[link to view the my GitHub repo on GitHub](https://github.com/szha511/stats220)
 
 # MEMES
 just a [link to some kpop memes](https://www.steezy.co/posts/50-k-pop-memes-of-all-time)
